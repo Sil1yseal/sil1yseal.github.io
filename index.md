@@ -5,5 +5,7 @@ title: Home
 ## Projects
 - Project 1: coming soon
 - Project 2: coming later
-## About Me
-Hello
+  
+[About Me](about.md)
+
+  [my notebook](notebook.md)
