@@ -4,4 +4,6 @@ title: About Me
 ---
 # About Me
 Hello! I am Sil1yseal.
-Write a short paragraph about your interests, skills, or goals.
+I like playing guitar, my goal is to become a mariachi teacher. My favorite animals are seals
+
+Being a mariachi teacher is my top career goal because I would like teaching people how to play instruments and they make a decent amount of money.
