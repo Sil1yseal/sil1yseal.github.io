@@ -6,6 +6,6 @@ title: Home
 - Project 1: coming soon
 - Project 2: coming later
   
-[About Me](about.md)
+[About Me](about.md
 
   [my notebook](notebook.md)
