@@ -10,7 +10,7 @@
 
 ## Flutter Notes 
 
-### What is Flutter?
+## What is Flutter?
 - Definition:
 - Why is it useful?
 
