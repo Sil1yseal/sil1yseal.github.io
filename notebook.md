@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Flutter Notes](#Flutter-notes)
-  - [what is flutter?](#what-is-flutter)
+  - [flutter?](#what-is-flutter)
   - [Key Terms and Definitions](#Key-Terms-and-Definitions)
   - [Layout and Design Widgets](Layout-and-Design-Widgets)
 -[Code Definitions](Code-Defenitions)
